@@ -1,4 +1,0 @@
-pandas
-networkx
-matplotlib
-numpy
